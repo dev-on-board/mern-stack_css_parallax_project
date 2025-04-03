@@ -1,1 +1,1 @@
-This project is based on parallaz effect 
+This project is based on parallex effect 
